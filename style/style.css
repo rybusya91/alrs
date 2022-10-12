@@ -5,10 +5,10 @@
   font-weight: normal;
 }
 
-.container {
+/* .container {
   max-width: 1070px;
   margin: 0 auto;
-}
+} */
 
 .header,
 .footer {
@@ -24,10 +24,10 @@
   align-items: center;
 }
 
-.nav__list {
+.nav__item {
   display: inline-block;
 }
-.nav__list:not(:first-of-type) {
+.nav__item:not(:first-of-type) {
   margin-left: 49px;
 }
 .nav_link {
